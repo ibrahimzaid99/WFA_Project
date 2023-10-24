@@ -1,0 +1,276 @@
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\EFWD2.exe
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\EFWD2.deps.json
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\EFWD2.runtimeconfig.json
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\EFWD2.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\EFWD2.pdb
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Castle.Core.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Humanizer.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.csproj.AssemblyReference.cache
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.Form1.resources
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.csproj.GenerateResource.cache
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.AssemblyInfoInputs.cache
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.AssemblyInfo.cs
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.csproj.CoreCompileInputs.cache
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.csproj.CopyComplete
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\obj\Debug\net7.0-windows\refint\EFWD2.dll
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.pdb
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.genruntimeconfig.cache
+D:\Medo\ITI\Entity Framework\Day2\EFWD2\EFWD2\obj\Debug\net7.0-windows\ref\EFWD2.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.csproj.AssemblyReference.cache
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.Form1.resources
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.Form2.resources
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.Form3.resources
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.Form4.resources
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.Login.resources
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.Properties.Resources.resources
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.SignUp.resources
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.csproj.GenerateResource.cache
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.AssemblyInfoInputs.cache
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.AssemblyInfo.cs
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.csproj.CoreCompileInputs.cache
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\EFWD2.exe
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\EFWD2.deps.json
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\EFWD2.runtimeconfig.json
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\EFWD2.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\EFWD2.pdb
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Castle.Core.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Guna.UI2.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Humanizer.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\System.Management.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.csproj.CopyComplete
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\refint\EFWD2.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.pdb
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.genruntimeconfig.cache
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\ref\EFWD2.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\bin\Debug\net7.0-windows\LazyProxy.dll
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.Post.resources
+D:\Medo\ITI\Entity Framework\Day 2\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.PostLayout.resources
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\EFWD2.exe
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\EFWD2.deps.json
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\EFWD2.runtimeconfig.json
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\EFWD2.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\EFWD2.pdb
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Castle.Core.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Guna.UI2.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\LazyProxy.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\System.Management.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.csproj.AssemblyReference.cache
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.Form1.resources
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.Form2.resources
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.Form3.resources
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.Form4.resources
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.Login.resources
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.Post.resources
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.PostLayout.resources
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.Properties.Resources.resources
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.SignUp.resources
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.csproj.GenerateResource.cache
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.AssemblyInfoInputs.cache
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.AssemblyInfo.cs
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.csproj.CoreCompileInputs.cache
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.csproj.CopyComplete
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\refint\EFWD2.dll
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.pdb
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.genruntimeconfig.cache
+C:\Users\Tweety\Downloads\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\ref\EFWD2.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\EFWD2.exe
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\EFWD2.deps.json
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\EFWD2.runtimeconfig.json
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\EFWD2.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\EFWD2.pdb
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Azure.Core.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Azure.Identity.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Castle.Core.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Guna.UI2.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Humanizer.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\LazyProxy.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\System.Management.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\System.Memory.Data.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+G:\Social_Media-master\EFWD2\EFWD2\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.csproj.AssemblyReference.cache
+G:\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.Form1.resources
+G:\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.Form2.resources
+G:\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.Form3.resources
+G:\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.Form4.resources
+G:\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.Login.resources
+G:\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.Post.resources
+G:\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.PostLayout.resources
+G:\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.Properties.Resources.resources
+G:\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.SignUp.resources
+G:\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.csproj.GenerateResource.cache
+G:\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.AssemblyInfoInputs.cache
+G:\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.AssemblyInfo.cs
+G:\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.csproj.CoreCompileInputs.cache
+G:\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.csproj.CopyComplete
+G:\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.dll
+G:\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\refint\EFWD2.dll
+G:\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.pdb
+G:\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\EFWD2.genruntimeconfig.cache
+G:\Social_Media-master\EFWD2\EFWD2\obj\Debug\net7.0-windows\ref\EFWD2.dll
